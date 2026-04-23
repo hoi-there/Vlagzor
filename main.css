@@ -18,3 +18,7 @@
 .container .image img.left {
     float: left; 
 }
+
+.container .image .figcaption{
+
+}
